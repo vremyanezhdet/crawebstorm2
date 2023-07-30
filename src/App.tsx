@@ -38,7 +38,7 @@ const StyledBtn = styled.button `
   }
 
   &:last-child {
-    background-color: #0033ff;
+    background-color: #ffa600;
   }
 `
 
